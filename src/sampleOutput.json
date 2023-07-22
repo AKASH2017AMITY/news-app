@@ -1,0 +1,159 @@
+{
+
+    "status": "ok",
+    "totalResults": 10,
+    
+    "articles": [
+        
+        {
+            
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "West Ham boycott match after alleged racial abuse",
+            "description": "Former West Ham players walked off the pitch during a seven-a-side tournament in the United States after one of their team was allegedly racially abused.",
+            "url": "http://www.bbc.co.uk/sport/football/65785204",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/17666/production/_129964859_gettyimages-1423592188.jpg",
+            "publishedAt": "2023-06-02T10:07:25.6727634Z",
+            "content": "Anton Ferdinand, who played for West Ham in the Premier League, led the walk-off\r\nAnton Ferdinand led West Ham in walking off the pitch during a seven-a-side tournament in the US after one of their p… [+2439 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ben Roberts-Smith case: Will Australia see a war crimes reckoning?",
+            "description": "A court has upheld reports that a top soldier killed unarmed Afghans - but wider questions remain.",
+            "url": "http://www.bbc.co.uk/news/world-australia-65774434",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5979/production/_129950922_gettyimages-1322600576.jpg",
+            "publishedAt": "2023-06-02T08:22:19.8132414Z",
+            "content": "On Thursday, a judge calmly delivered an extraordinary ruling that will go down in Australian history.\r\nThe country's most-decorated living soldier, Ben Roberts-Smith, had lost a defamation case agai… [+7209 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Multi-cancer blood test shows real promise in NHS study",
+            "description": "The Galleri test revealed the correct site of a tumour 85% of the time in a study with 5,000 patients.",
+            "url": "http://www.bbc.co.uk/news/health-65775159",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BF96/production/_129964094_blood-index-getty.jpg",
+            "publishedAt": "2023-06-02T07:07:18.4376299Z",
+            "content": "A blood test for more than 50 types of cancer has shown real promise in a major NHS trial, researchers say.\r\nThe test correctly revealed two out of every three cancers among 5,000 people who had visi… [+2412 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Mexican police find 45 bags of human remains",
+            "description": "Officials were searching a ravine near Guadalajara for seven young people reported missing last week.",
+            "url": "http://www.bbc.co.uk/news/world-latin-america-65784023",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/110C2/production/_129962896_mexico.jpg",
+            "publishedAt": "2023-06-02T06:22:15.7196669Z",
+            "content": "Mexican authorities have found 45 bags containing human remains in a ravine outside the western city of Guadalajara.\r\nOfficials were searching for seven young call centre workers, who had been report… [+2123 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Phillip Schofield says his career is over following affair",
+            "description": "The former ITV host tells the BBC his affair with a young male colleague was a \"grave error\".",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-65775251",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2356/production/_129964090_schofield-index3-bbc.jpg",
+            "publishedAt": "2023-06-02T06:22:14.0461924Z",
+            "content": "Media caption, Watch: Phillip Schofield said the affair was his \"biggest, sorriest secret\"\r\nPhillip Schofield has said he has \"lost everything\" and does not see a future for his career, in an emotion… [+9583 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "PGMOL condemns 'abhorrent' abuse of referee Taylor",
+            "description": "Referees' body PGMOL says it is appalled by the \"unjustified and abhorrent\" abuse directed at Anthony Taylor by supporters at Budapest Airport following Wednesday's Europa League final.",
+            "url": "http://www.bbc.co.uk/sport/football/65776488",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/17580/production/_129961659_anthonytaylor.jpg",
+            "publishedAt": "2023-06-02T05:52:19.297159Z",
+            "content": "Anthony Taylor booked 13 players during the ill-tempered Europa League final\r\nReferees' body PGMOL says it is appalled by the \"unjustified and abhorrent\" abuse directed at Anthony Taylor in Budapest … [+1693 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Congress approves debt deal, averting a US default",
+            "description": "President Joe Biden will now sign the measure into law, staving off worldwide economic chaos.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65781359",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15AFA/production/_129962888_chuck.jpg",
+            "publishedAt": "2023-06-02T03:07:15.7325708Z",
+            "content": "The US Congress has approved a deal to lift the country's borrowing limit, days before the world's largest economy is due to default on its debt.\r\nThe bipartisan measure sped through the Senate by a … [+2656 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Florida teenager Dev Shah wins US Spelling Bee with 'psammophile'",
+            "description": "Dev Shah defeats Charlotte Walsh after she fails to correctly spell \"daviely\" in an earlier round.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65784595",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B118/production/_129963354_e628ddba470a6a27ace624bde180fe65c77aaa9a.jpg",
+            "publishedAt": "2023-06-02T02:52:16.3563223Z",
+            "content": "A teenager from Florida has won the 2023 Scripps National Spelling Bee in the United States. \r\nDev Shah, a 14-year-old student from Largo, spelled \"psammophile\" correctly to win the 95th national bee… [+226 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "How gun violence is reshaping American lives",
+            "description": "Avoiding public places, moving home... how the threat of random gunfire is changing the way people live.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65686152",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/935E/production/_129962773_morganhook_em-081.jpg",
+            "publishedAt": "2023-06-02T01:07:16.5282673Z",
+            "content": "As gun violence increases and shootings seem to make headlines every few days, the fear of getting caught up in one is changing the lives of millions of Americans.\r\nA shopping mall. A classroom. A te… [+6929 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Nova Scotia battles its largest wildfire on record",
+            "description": "The Canadian fires have had a wide impact, with air quality warnings issued in the US northeast.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65755795",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14B9E/production/_129949848_d000f76b940b8b0d31eab62bad6d275ac659d20b0_251_4032_22681000x563.jpg",
+            "publishedAt": "2023-06-01T15:52:25.8090811Z",
+            "content": "Media caption, Watch: Aerial view shows scale of Nova Scotia wildfires\r\nFirefighters in Nova Scotia are battling the largest wildfire in the Atlantic province's history. \r\nOfficials say the fire on t… [+3794 chars]"
+        }
+    ]
+
+}
